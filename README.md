@@ -15,5 +15,5 @@ command.
 
 ## Addons
 - [Smoothscroll](https://github.com/cferdinandi/smooth-scroll)
-- [Scrollreveal](https://github.com/jlmakes/scrollreveal)
+- [Scrollreveal](https://github.com/jlmakes/scrollreveal) (Add the 'sr' class to each element that you want to be revealed)
 - 'Return to the top' button, which appears automatically after a short scroll.
