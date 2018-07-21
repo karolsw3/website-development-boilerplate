@@ -19,6 +19,9 @@ body {
 .footer {
   opacity: 0.45;
 }
+.has-padding-5px {
+  padding: 5px;
+}
 .upButton {
   opacity: 0;
   position: fixed;
