@@ -103,3 +103,9 @@ body {
   min-width: 80vw;
   margin: 15px 0;
 }
+@media screen and (max-width: 768px) {
+  .is-reversed-on-mobile {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}

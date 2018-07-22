@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "build": "gulp"
   },
   "author": "Karol Świerczek",
   "license": "MIT",
